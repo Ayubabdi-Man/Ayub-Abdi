@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayub Abdi Ibrahim</h1>
 <h3 align="center">A passionate frontend developer from Somlia</h3>
+![WhatsApp Image 2025-02-02 at 20 29 59](https://github.com/user-attachments/assets/ad913e02-32cb-4e5b-9d0b-900837d76b9a)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayubaabdi&label=Profile%20views&color=0e75b6&style=flat" alt="ayubaabdi" /> </p>
 
